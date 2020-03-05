@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8765761-f8ff-4e2f-85d1-ca1aac5aca53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Git-Blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/2020-03-06-first-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583421995109</updated>
       <workItem from="1583421996392" duration="1528000" />
-      <workItem from="1583423572614" duration="140000" />
+      <workItem from="1583423572614" duration="1330000" />
     </task>
     <servers />
   </component>
@@ -94,13 +91,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="-819" width="774" height="580" key="find.popup" timestamp="1583423365164">
+    <state x="430" y="-819" width="774" height="580" key="find.popup" timestamp="1583424583752">
       <screen x="-143" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="430" y="-819" width="774" height="580" key="find.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583423365164" />
-    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup" timestamp="1583423881832">
+    <state x="430" y="-819" width="774" height="580" key="find.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583424583752" />
+    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup" timestamp="1583424848773">
       <screen x="-143" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583423881832" />
+    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583424848773" />
   </component>
 </project>
