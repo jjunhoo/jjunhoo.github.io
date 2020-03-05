@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8765761-f8ff-4e2f-85d1-ca1aac5aca53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/siba.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583421995109</updated>
       <workItem from="1583421996392" duration="1528000" />
-      <workItem from="1583423572614" duration="2480000" />
+      <workItem from="1583423572614" duration="2587000" />
     </task>
     <servers />
   </component>
