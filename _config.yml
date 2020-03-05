@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "김개발새발의 개인 공부 공간"
   location         : "Seoul"
-  email            :
+  email            : "Email"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
