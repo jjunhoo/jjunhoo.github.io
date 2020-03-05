@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8765761-f8ff-4e2f-85d1-ca1aac5aca53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_masthead.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -71,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583421995109</updated>
       <workItem from="1583421996392" duration="1528000" />
-      <workItem from="1583423572614" duration="1657000" />
+      <workItem from="1583423572614" duration="1833000" />
     </task>
     <servers />
   </component>
@@ -94,9 +99,9 @@
       <screen x="-143" y="-1057" width="1920" height="1057" />
     </state>
     <state x="430" y="-819" width="774" height="580" key="find.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583425046602" />
-    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup" timestamp="1583425175882">
+    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup" timestamp="1583425361904">
       <screen x="-143" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583425175882" />
+    <state x="398" y="-1032" width="838" height="1032" key="search.everywhere.popup/-143.-1057.1920.1057/0.23.1680.978@-143.-1057.1920.1057" timestamp="1583425361904" />
   </component>
 </project>
