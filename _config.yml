@@ -221,7 +221,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title/
 paginate: 5 # amount of posts to show (첫 페이지에 노출할 최근 게시물 수 지정)
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
