@@ -1,9 +1,10 @@
 ---
-layout: posts
-title: "Redis Insight로 Redis Cluster 붙이기"
-date: 2025-10-29 15:00:00 +0900
-categories: infra redis
-tags: [redis, cluster, insight]
+layout: post
+title: "Redis Insight로 Redis Cluster 연동 방법"
+date: 2025-10-39
+categories: [redis, cluster, insight]
+tags: [지킬, 깃허브, 구글검색, 서치콘솔, 블로그운영]
+description: "Redis Insight로 Redis Cluster 연동 방법"
+author: jjunhoo
 ---
 
-오늘은 Redis Insight로 6 master + 6 replica 클러스터 붙이는 방법을 적어본다...
