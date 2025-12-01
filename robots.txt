@@ -4,3 +4,4 @@ Allow: /
 sitemap: https://jjunhoo.github.io/sitemap.xml
 sitemap: https://jjunhoo.github.io/atom.xml
 sitemap: https://jjunhoo.github.io/rss.xml
+sitemap: https://jjunhoo.github.io/Ads.txt
