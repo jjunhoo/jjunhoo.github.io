@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "김개발새발"
+  name             : "Summer Daddy 🍉"
   avatar           : "/assets/images/siba.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "김개발새발의 개인 공부 공간"
-  location         : "Seoul"
-  email            : "Email"
+  bio              : "Summer Daddy Daily Life "
+  location         : "South Korea"
+  email            : "-"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
