@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Summer Blog"
+title                    : "Summer Daddy Daily Life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Summer Daddy"
 description              : "An amazing website."
 url                      : "https://jjunhoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
