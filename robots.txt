@@ -1,2 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
 User-agent: Yeti
-Allow:/
+Allow: /
+
+Sitemap: https://jjunhoo.github.io/sitemap.xml
