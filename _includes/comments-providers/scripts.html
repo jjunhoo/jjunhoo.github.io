@@ -11,7 +11,8 @@
   {% when "staticman_v2" %}
     {% include /comments-providers/staticman_v2.html %}
   {% when "utterances" %}
-    {% include /comments-providers/utterances.html %}
+    <!-- Utterances script is included inline in comments.html -->
+
   {% when "custom" %}
     {% include /comments-providers/custom.html %}
 {% endcase %}
