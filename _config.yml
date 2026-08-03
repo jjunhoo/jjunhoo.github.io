@@ -112,11 +112,8 @@ author:
   avatar           : "/assets/images/siba.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "육아와 일상 실사용 리뷰를 기록합니다."
   location         : "South Korea"
-  email            : "wnsghi1@naver.com"
+  email            : # contact email is on /contact/ only
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wnsghi1@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jjunhoo"
