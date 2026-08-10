@@ -141,6 +141,10 @@ include:
   - _pages
   - ads.txt
   - robots.txt
+# Keep ads.txt/robots.txt in the published site root for AdSense crawlers
+keep_files:
+  - ads.txt
+  - robots.txt
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
