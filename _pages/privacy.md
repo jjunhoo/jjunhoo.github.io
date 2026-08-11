@@ -8,7 +8,7 @@ toc: true
 
 본 개인정보처리방침은 **Summer Daddy Daily Life**([https://jjunhoo.github.io](https://jjunhoo.github.io)) 이용과 관련하여 수집·이용될 수 있는 정보와 그 처리 방식을 설명합니다.
 
-최종 업데이트: 2026-08-04
+최종 업데이트: 2026-08-11
 
 ## 1. 수집하는 정보
 
