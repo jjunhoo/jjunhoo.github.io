@@ -1,2 +1,1 @@
-# ads.txt for https://jjunhoo.github.io
 google.com, pub-5011916180835742, DIRECT, f08c47fec0942fa0
