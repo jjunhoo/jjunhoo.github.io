@@ -138,7 +138,6 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - .nojekyll
   - _pages
   - ads.txt
   - robots.txt
